@@ -1,0 +1,128 @@
+[
+  {
+    "backcolor": "#828282",
+    "name": "Vortex Core",
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "plate": true,
+    "css": "@import url('https://fonts.googleapis.com/css?family=Lato:400,700');\n.keylabel9, .keylabel10, .keylabel11, .keylabel4 { font-family: 'Lato'; }\n\n\n\n\n"
+  },
+  [
+    {
+      "y": 2.5,
+      "c": "#a09888",
+      "t": "#0a1670\n\n\n\n#e81010",
+      "p": "DSA",
+      "a": 3
+    },
+    "ESC\n\n\n\n`",
+    {
+      "c": "#e2dbca",
+      "t": "#0a1670",
+      "a": 7
+    },
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    {
+      "c": "#a09888"
+    },
+    "Del",
+    "<i class='kb kb-Arrows-Left'></i>"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Tab",
+    {
+      "c": "#e2dbca"
+    },
+    "A",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    {
+      "a": 5
+    },
+    ":\n;",
+    {
+      "c": "#a09888",
+      "a": 7,
+      "w": 1.75
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Shift",
+    {
+      "c": "#e2dbca"
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    {
+      "a": 5
+    },
+    "<\n,",
+    ">\n.",
+    {
+      "c": "#a09888",
+      "a": 7,
+      "w": 1.25
+    },
+    "Shift",
+    {
+      "t": "#e81010"
+    },
+    "Fn 1"
+  ],
+  [
+    {
+      "t": "#0a1670",
+      "w": 1.25
+    },
+    "Ctrl",
+    "Win",
+    "Alt",
+    {
+      "t": "#364feb"
+    },
+    "Fn",
+    {
+      "t": "#0a1670",
+      "w": 1.75
+    },
+    "",
+    {
+      "w": 2.75
+    },
+    "",
+    "Alt",
+    "Menu",
+    "Pn",
+    {
+      "w": 1.25
+    },
+    "Ctrl"
+  ]
+]

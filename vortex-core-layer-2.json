@@ -1,0 +1,129 @@
+[
+  {
+    "backcolor": "#828282",
+    "name": "Vortex Core Layer 2",
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "plate": true,
+    "css": "@import url('https://fonts.googleapis.com/css?family=Lato:400,700');\n.keylabel9, .keylabel10, .keylabel11, .keylabel4 { font-family: 'Lato'; }\n\n\n\n\n",
+    "pcb": false
+  },
+  [
+    {
+      "y": 2.5,
+      "c": "#a09888",
+      "t": "#0a1670\n\n\n\n#e81010",
+      "p": "DSA",
+      "a": 3
+    },
+    "ESC\n\n\n\n`",
+    {
+      "c": "#e2dbca",
+      "t": "#0a1670",
+      "a": 7
+    },
+    "",
+    "",
+    "7",
+    "8",
+    "9",
+    ".",
+    "",
+    "",
+    "",
+    "",
+    {
+      "c": "#a09888",
+      "a": 5
+    },
+    "\n{\n\n\n\n\n[",
+    "\n}\n\n\n\n\n]"
+  ],
+  [
+    {
+      "a": 7,
+      "w": 1.25
+    },
+    "Tab",
+    {
+      "c": "#e2dbca"
+    },
+    "",
+    "",
+    "4",
+    "5",
+    "6",
+    "<i class='kb kb-Arrows-Left'>",
+    "<i class='kb kb-Arrows-Up'>",
+    {
+      "a": 5
+    },
+    "\n(\n\n\n\n\n<i class='kb kb-Arrows-Down'>",
+    "\n)\n\n\n\n\n<i class='kb kb-Arrows-Right'>",
+    {
+      "a": 7
+    },
+    "",
+    {
+      "c": "#a09888",
+      "w": 1.75
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Shift",
+    {
+      "c": "#e2dbca"
+    },
+    "",
+    "0",
+    "1",
+    "2",
+    "3",
+    "",
+    "",
+    "",
+    "",
+    {
+      "c": "#a09888",
+      "w": 1.25
+    },
+    "Shift",
+    {
+      "t": "#e81010"
+    },
+    "Fn 1"
+  ],
+  [
+    {
+      "t": "#0a1670",
+      "w": 1.25
+    },
+    "Ctrl",
+    "Win",
+    "Alt",
+    {
+      "t": "#364feb"
+    },
+    "Fn",
+    {
+      "t": "#0a1670",
+      "w": 1.75
+    },
+    "",
+    {
+      "w": 2.75
+    },
+    "",
+    "Alt",
+    "Menu",
+    "Pn",
+    {
+      "w": 1.25
+    },
+    "Ctrl"
+  ]
+]
